@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# Trained ML model files
+*.pkl
